@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/e54843a8-0f25-423c-807d-4598e518c0a4" />
 
 <!--
 **ivanpilled/ivanpilled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
